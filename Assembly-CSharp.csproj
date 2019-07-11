@@ -70,10 +70,15 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\scripts\CameraChange.cs" />
     <Compile Include="Assets\scripts\CameraStable.cs" />
+    <Compile Include="Assets\scripts\CarControlActive.cs" />
+    <Compile Include="Assets\scripts\countdown.cs" />
+    <Compile Include="Assets\scripts\DreamCar01Tracker.cs" />
     <Compile Include="Assets\scripts\HalfPointTrigger.cs" />
     <Compile Include="Assets\scripts\LapComplete.cs" />
     <Compile Include="Assets\scripts\LapTimeManager.cs" />
+    <Compile Include="Assets\scripts\LoadLapTime.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
